@@ -1,0 +1,182 @@
+.mainbox{
+    background-color: white;
+    overflow-y: auto;
+    overflow-x: hidden;
+}
+
+a{
+    text-decoration: none;
+}
+
+.toppanel{
+    background-color: darkgray;
+    width: 100%;
+    padding-top: 20px;
+    display: inline-block;
+    border: 2px black solid;
+    overflow: hidden;
+}
+
+.leftpanel{
+    text-align: center;
+    top: 125px;
+    position: fixed;
+    height: 100%;
+    width: 100px;
+    left: 50px;
+}
+
+.main{
+    margin-right: 250px;
+    margin-left: 200px;
+    background-color: white;
+    text-align: center;
+}
+
+.search{
+    width: 250px;
+    background-color: grey;
+    position: fixed;
+    right: 10px;
+    border: 2px black solid;
+    top: 100px;
+
+}
+
+.search-txt{
+    border: 2px black solid;
+    margin: 5px 5px 5px 5px;
+    font-size: 15px;
+}
+
+.search-btn{
+    color: black;
+    background-color: white;
+    border: 2px black solid;
+    margin: 5px 5px 5px 2px;
+    padding: 2px;
+}
+
+.footer{
+    background-color: white;
+    display: inline-block;
+    position: fixed;
+    bottom: 20px;
+    color: white;
+    left: 50%;
+    margin: auto;
+    transform: translate(-50%, -50%);
+}
+
+.footer a {
+    color: black;
+    float: left;
+    padding: 8px 16px;
+    text-decoration: none;
+}
+
+.footer a.active {
+    background-color: dimgrey;
+    color: white;
+}
+
+.button-panel{
+    position: absolute;
+    right: 50px;
+}
+
+.buttons{
+    background-color: grey;
+    color: black;
+    padding: 10px 10px 10px 10px;
+    position: relative;
+    margin: 5px;
+    display: inline-block;
+    text-align: center;
+    text-decoration: none;
+    cursor: pointer;
+    font-weight: bold;
+    border: 2px black solid;
+}
+
+.buttons:hover{
+    background-color: white;
+    color: black;
+}
+
+#logotips{
+    position: relative;
+    width: 300px;
+    bottom: 20px;
+    left: 15px;
+    top: -10px;
+}
+
+#bookslogo{
+    width: 50px;
+}
+
+.genrelabel{
+    color: black;
+    padding: 10px 10px 10px 10px;
+    position: relative;
+    margin: 5px;
+    display: inline-block;
+    text-align: center;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.genre-button{
+    color: black;
+    padding: 10px 10px 10px 10px;
+    position: relative;
+    margin: 5px;
+    display: inline-block;
+    text-align: center;
+    text-decoration: none;
+    cursor: pointer;
+    font-weight: bold;
+    border: 2px black solid;
+    width: 75px;
+}
+
+.toppanel div{
+    display: inline-block;
+}
+
+.book{
+    display: inline-block;
+    text-align: center;
+    padding: 50px 50px;
+    cursor: pointer;
+}
+
+.book:hover{
+    background-color: #cccccc;
+}
+
+.book a img{
+    height: 350px;
+    max-width: 100%;
+    margin-bottom: 10px;
+    box-shadow: 2px 2px 5px #ddd;
+}
+
+.book a dt{
+    margin-bottom: 5px;
+    color: black;
+    font-size: 25px;
+    font-weight: 700;
+}
+
+.book a .price{
+    color: #337ab7;
+    font-weight: 700;
+    font-size: 18px;
+}
+
+.title{
+    margin: 20px 0px 20px 250px;
+    font-size: 20px;
+}
