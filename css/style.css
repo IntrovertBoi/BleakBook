@@ -157,7 +157,7 @@ a{
 }
 
 .book a img{
-    height: 350px;
+    max-height: 350px;
     max-width: 100%;
     margin-bottom: 10px;
     box-shadow: 2px 2px 5px #ddd;
@@ -179,4 +179,16 @@ a{
 .title{
     margin: 20px 0px 20px 250px;
     font-size: 20px;
+}
+
+.gallery-link{
+    display: inline-block;
+    text-align: center;
+    padding: 50px 50px;
+    cursor: pointer;
+}
+
+.photos{
+    max-width: 300px;
+    box-shadow: 2px 2px 5px #ddd;
 }

@@ -2,7 +2,44 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8d1949da-d2d4-417b-9037-7f6abae1edaf" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/gallery.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/books_static/book2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/books_static/books1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/books_static/books3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/books_static/books4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/books_static/books5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/books_static/books6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/lightbox/css/lightbox.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/lightbox/images/close.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/lightbox/images/loading.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/lightbox/images/next.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/lightbox/images/prev.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/lightbox/js/lightbox.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/video_gallery.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bildes/1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bildes/2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bildes/3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bildes/icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bildes/Без названия (1).jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bildes/Без названия (2).jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bildes/Без названия (3).jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bildes/Без названия (4).jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bildes/Без названия (5).jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bildes/Без названия (6).jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bildes/Без названия.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bildes/Без названия.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/libs/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/account.html" beforeDir="false" afterPath="$PROJECT_DIR$/libs/lightbox/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cart.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/logotips.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/logotips.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/reset.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/reset.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -25,17 +62,30 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1YIVk2GtpeyUyEy1qbFijog1tds" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/libs/lightbox" />
     <property name="settings.editor.selected.configurable" value="settings.github" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\IntrovertBoy\Documents\GitHub\BleakBook\libs\lightbox" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\IntrovertBoy\Documents\GitHub\BleakBook\css" />
+      <recent name="C:\Users\IntrovertBoy\Documents\GitHub\BleakBook\images" />
+    </key>
   </component>
   <component name="RunManager">
     <configuration name="index.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/untitled/index.html" useBuiltInWebServerPort="true">
@@ -80,17 +130,21 @@
       <workItem from="1585337988736" duration="715000" />
       <workItem from="1585407994551" duration="3363000" />
       <workItem from="1585416480632" duration="4000" />
+      <workItem from="1585418110406" duration="3400000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
   <component name="WindowStateProjectService">
-    <state x="694" y="426" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1585326544262">
+    <state x="694" y="426" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1585421037645">
       <screen x="0" y="0" width="1680" height="1010" />
     </state>
-    <state x="694" y="426" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1680.1010@0.0.1680.1010" timestamp="1585326544262" />
+    <state x="694" y="426" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1680.1010@0.0.1680.1010" timestamp="1585421037645" />
     <state x="620" y="260" key="FileChooserDialogImpl" timestamp="1585336759131">
       <screen x="0" y="0" width="1680" height="1010" />
     </state>
