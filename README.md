@@ -2,5 +2,5 @@
  Project website
 
 Progress:
- Mainpage design
- Photo gallery with lightbox
+ 1. Mainpage design
+ 2. Photo gallery with lightbox
