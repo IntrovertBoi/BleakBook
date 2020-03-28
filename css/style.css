@@ -177,8 +177,8 @@ a{
 }
 
 .title{
-    margin: 20px 0px 20px 250px;
-    font-size: 20px;
+    margin: 20px 0px 20px 200px;
+    font-size: 30px;
 }
 
 .gallery-link{
@@ -191,4 +191,38 @@ a{
 .photos{
     max-width: 300px;
     box-shadow: 2px 2px 5px #ddd;
+}
+
+.contacts{
+    margin-right: 250px;
+    margin-left: 200px;
+    background-color: white;
+    padding: 10px 0px 10px 0px;
+}
+
+.contact-info{
+    font-weight: bold;
+    padding: 10px;
+    font-size: 20px;
+}
+
+.map{
+    margin: 10px;
+    padding: 10px;
+}
+
+.about-us{
+    margin-right: 250px;
+    margin-left: 200px;
+    padding: 10px;
+    font-size: 20px;
+}
+
+.about-us p{
+    padding: 10px;
+}
+
+.warning{
+    font-weight: bolder;
+    font-size: 30px;
 }

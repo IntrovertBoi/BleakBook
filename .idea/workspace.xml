@@ -2,44 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8d1949da-d2d4-417b-9037-7f6abae1edaf" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/gallery.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/books_static/book2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/books_static/books1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/books_static/books3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/books_static/books4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/books_static/books5.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/books_static/books6.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/icon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/libs/lightbox/css/lightbox.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/libs/lightbox/images/close.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/libs/lightbox/images/loading.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/libs/lightbox/images/next.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/libs/lightbox/images/prev.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/libs/lightbox/js/lightbox.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/video_gallery.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/about_us.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/contacts.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bildes/1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bildes/2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bildes/3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bildes/icon.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bildes/Без названия (1).jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bildes/Без названия (2).jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bildes/Без названия (3).jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bildes/Без названия (4).jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bildes/Без названия (5).jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bildes/Без названия (6).jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bildes/Без названия.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bildes/Без названия.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/libs/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/account.html" beforeDir="false" afterPath="$PROJECT_DIR$/libs/lightbox/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cart.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gallery.html" beforeDir="false" afterPath="$PROJECT_DIR$/gallery.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/logotips.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/logotips.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/reset.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/reset.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/video_gallery.html" beforeDir="false" afterPath="$PROJECT_DIR$/video_gallery.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -130,7 +99,7 @@
       <workItem from="1585337988736" duration="715000" />
       <workItem from="1585407994551" duration="3363000" />
       <workItem from="1585416480632" duration="4000" />
-      <workItem from="1585418110406" duration="3400000" />
+      <workItem from="1585418110406" duration="6202000" />
     </task>
     <servers />
   </component>
