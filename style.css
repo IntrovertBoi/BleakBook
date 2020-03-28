@@ -163,7 +163,7 @@ a{
     box-shadow: 2px 2px 5px #ddd;
 }
 
-.book a dt{
+.book a .book-name{
     margin-bottom: 5px;
     color: black;
     font-size: 25px;
