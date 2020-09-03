@@ -1,8 +1,6 @@
 # BleakBook
- Project website
+School project website for a bookstore, using HTML and CSS.
 
 Published at:  https://introvertboi.github.io/BleakBook/
 
-Progress:
- 1. Home, about us, gallery and contacts page design
- 2. Photo gallery with lightbox
+
